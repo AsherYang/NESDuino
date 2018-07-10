@@ -38,3 +38,8 @@ Now when you connect the Arduino to your computer via USB, and plug the NES Cont
 Again, just to reitterate. If you intend to use your Arduino for other projects after this one, you will need to revert your firmware back to the `Arduino USB Serial Firmware` before uploading new sketches. This process is simple to do, and is well documented on the official Arduino documentation. 
 
 To make using your new USB NES Controller more convenient, you can embed an Arduino inside of the casing of the NES Controller, and simply exchange the NES cord comming out of the controller for a USB A cord that can plug directly into your computer.
+
+### Contibutors
+Thank you to those who have contributed to make this project even better.
+* [Daniel Fanara](http://github.com/dfanara) (Author)
+* [per1234](http://github.com/per1234) (Examples Update)
